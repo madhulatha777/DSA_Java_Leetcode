@@ -16,8 +16,6 @@ public class L83_RemoveDuplicates_Sorted_LL {
         head = deleteDuplicates(head);
         display(head);
 
-
-
     }
 
     // https://leetcode.com/problems/remove-duplicates-from-sorted-list/
